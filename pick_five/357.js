@@ -5,7 +5,7 @@ var helloworld=cc.Layer.extend({
     ctor:function() {
         this._super();
         var size = cc.winSize;
-        //精灵的动画创建函数(精灵，动画类型，动画参数)
+        //精灵的动画创建函数(精灵，动画类型，动画参数))))
         self = this;
 
 //################################################//
