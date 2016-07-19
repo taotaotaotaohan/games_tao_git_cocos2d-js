@@ -1,0 +1,111 @@
+
+begin.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01shark
+  rotate: true
+  xy: 173, 63
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+02tree_lift
+  rotate: false
+  xy: 2, 120
+  size: 210, 249
+  orig: 210, 249
+  offset: 0, 0
+  index: -1
+02tree_right
+  rotate: false
+  xy: 1140, 769
+  size: 205, 242
+  orig: 205, 242
+  offset: 0, 0
+  index: -1
+03tree
+  rotate: false
+  xy: 1140, 614
+  size: 186, 153
+  orig: 186, 153
+  offset: 0, 0
+  index: -1
+04island
+  rotate: false
+  xy: 214, 309
+  size: 304, 60
+  orig: 304, 60
+  offset: 0, 0
+  index: -1
+05cloud
+  rotate: false
+  xy: 1347, 929
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+06cloud_big
+  rotate: false
+  xy: 2, 39
+  size: 169, 79
+  orig: 169, 79
+  offset: 0, 0
+  index: -1
+07cloud
+  rotate: false
+  xy: 1140, 539
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+08cloud_small
+  rotate: false
+  xy: 214, 245
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+09bg_cliff@2x
+  rotate: false
+  xy: 214, 151
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+09volcano@2x
+  rotate: false
+  xy: 1347, 842
+  size: 114, 85
+  orig: 114, 85
+  offset: 0, 0
+  index: -1
+10balloon_yellow@2x
+  rotate: true
+  xy: 520, 313
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+11balloon_red@2x
+  rotate: false
+  xy: 1497, 970
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+12steamship_small@2x
+  rotate: false
+  xy: 2, 2
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 371
+  size: 1136, 640
+  orig: 1136, 640
+  offset: 0, 0
+  index: -1

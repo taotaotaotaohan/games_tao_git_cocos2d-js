@@ -1,0 +1,62 @@
+
+shark.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01red
+  rotate: false
+  xy: 430, 53
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+02mouth
+  rotate: false
+  xy: 518, 79
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+03du
+  rotate: false
+  xy: 278, 37
+  size: 150, 84
+  orig: 150, 84
+  offset: 0, 0
+  index: -1
+04ce_qi
+  rotate: false
+  xy: 626, 75
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+05sh_qi
+  rotate: true
+  xy: 2, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+06body
+  rotate: false
+  xy: 2, 40
+  size: 274, 81
+  orig: 274, 81
+  offset: 0, 0
+  index: -1
+07eyes
+  rotate: false
+  xy: 430, 37
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+08eyes
+  rotate: false
+  xy: 518, 69
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

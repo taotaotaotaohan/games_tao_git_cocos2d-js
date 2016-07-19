@@ -1,0 +1,27 @@
+
+sea_purple.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01ke
+  rotate: false
+  xy: 180, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+02hand
+  rotate: false
+  xy: 2, 7
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+03hand
+  rotate: false
+  xy: 97, 3
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1

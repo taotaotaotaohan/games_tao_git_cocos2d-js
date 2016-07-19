@@ -1,0 +1,27 @@
+
+sea_yellow.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01ke
+  rotate: false
+  xy: 137, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+02hand
+  rotate: false
+  xy: 2, 6
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+03hand
+  rotate: false
+  xy: 74, 3
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1

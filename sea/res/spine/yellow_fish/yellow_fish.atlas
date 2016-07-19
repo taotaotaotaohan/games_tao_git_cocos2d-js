@@ -1,0 +1,20 @@
+
+yellow_fish.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 9
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

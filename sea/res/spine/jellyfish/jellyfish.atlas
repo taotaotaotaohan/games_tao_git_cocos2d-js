@@ -1,0 +1,27 @@
+
+jellyfish.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01body
+  rotate: false
+  xy: 2, 28
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+02eyes
+  rotate: true
+  xy: 48, 40
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+03tail
+  rotate: true
+  xy: 2, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

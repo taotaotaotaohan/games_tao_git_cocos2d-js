@@ -1,0 +1,69 @@
+
+whale.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01qi
+  rotate: true
+  xy: 183, 2
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+02forktail
+  rotate: false
+  xy: 746, 86
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+03boby
+  rotate: false
+  xy: 2, 42
+  size: 179, 84
+  orig: 179, 84
+  offset: 0, 0
+  index: -1
+04head
+  rotate: false
+  xy: 183, 48
+  size: 178, 78
+  orig: 178, 78
+  offset: 0, 0
+  index: -1
+05zuiba
+  rotate: false
+  xy: 363, 51
+  size: 162, 75
+  orig: 162, 75
+  offset: 0, 0
+  index: -1
+06line
+  rotate: false
+  xy: 527, 54
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+07qi
+  rotate: false
+  xy: 672, 60
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+08eyes
+  rotate: false
+  xy: 2, 30
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+09eyes
+  rotate: false
+  xy: 233, 40
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

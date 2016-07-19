@@ -1,0 +1,11 @@
+{
+  "debugMode": 1,
+  "showFPS": true,
+  "frameRate": 60,
+  "id": "gameCanvas",
+  "renderMode": 2,
+  "noCache"       : false,
+  "engineDir":"../../web/",
+  "modules"       : ["cocos2d", "extensions", "external"],
+  "jsList"        : ["game_main.js","sea.js","rescource.js"]
+}

@@ -1,0 +1,62 @@
+
+coral1_big.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 341, 43
+  size: 36, 141
+  orig: 36, 141
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 341, 81
+  size: 43, 143
+  orig: 43, 143
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 61
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 93, 71
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 93, 23
+  size: 46, 132
+  orig: 46, 132
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 227, 2
+  size: 39, 123
+  orig: 39, 123
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 245, 72
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 352, 5
+  size: 36, 141
+  orig: 36, 141
+  offset: 0, 0
+  index: -1

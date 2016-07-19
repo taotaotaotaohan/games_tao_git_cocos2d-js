@@ -1,0 +1,83 @@
+
+lantern_fish.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01sh_qi
+  rotate: false
+  xy: 356, 90
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+02wei_qi
+  rotate: true
+  xy: 133, 16
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+03ce_qi
+  rotate: true
+  xy: 402, 95
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+04head
+  rotate: false
+  xy: 133, 54
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+04jiao
+  rotate: false
+  xy: 236, 73
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+05ce_qi
+  rotate: true
+  xy: 453, 94
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+05mouth
+  rotate: false
+  xy: 304, 90
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+06eyes
+  rotate: false
+  xy: 219, 34
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+07eyes
+  rotate: false
+  xy: 133, 6
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+08tooth
+  rotate: false
+  xy: 236, 54
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+09light
+  rotate: true
+  xy: 2, 2
+  size: 122, 129
+  orig: 122, 129
+  offset: 0, 0
+  index: -1

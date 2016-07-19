@@ -1,0 +1,34 @@
+
+coral3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 154, 64
+  size: 36, 141
+  orig: 36, 141
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2, 2
+  size: 43, 143
+  orig: 43, 143
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 297, 22
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 47
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1

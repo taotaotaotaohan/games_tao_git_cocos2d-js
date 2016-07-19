@@ -1,0 +1,41 @@
+
+batfish.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01tail
+  rotate: false
+  xy: 341, 76
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+02wing
+  rotate: false
+  xy: 122, 2
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+03wing
+  rotate: true
+  xy: 232, 3
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+04wing
+  rotate: false
+  xy: 2, 11
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+05eyes
+  rotate: false
+  xy: 341, 41
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

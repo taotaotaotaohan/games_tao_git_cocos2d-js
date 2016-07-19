@@ -1,0 +1,62 @@
+
+fish_fight.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01qi
+  rotate: false
+  xy: 203, 104
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+02wei_qi
+  rotate: false
+  xy: 203, 78
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+03body
+  rotate: false
+  xy: 124, 60
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+04ce_qi
+  rotate: true
+  xy: 203, 62
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+05eyes
+  rotate: false
+  xy: 241, 116
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+06tooth
+  rotate: true
+  xy: 186, 24
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+07line
+  rotate: false
+  xy: 124, 10
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+08light
+  rotate: false
+  xy: 2, 2
+  size: 120, 124
+  orig: 120, 124
+  offset: 0, 0
+  index: -1

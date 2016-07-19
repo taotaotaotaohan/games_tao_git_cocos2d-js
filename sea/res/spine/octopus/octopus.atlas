@@ -1,0 +1,76 @@
+
+octopus.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01leg
+  rotate: true
+  xy: 434, 44
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+02leg
+  rotate: true
+  xy: 274, 27
+  size: 35, 88
+  orig: 35, 88
+  offset: 0, 0
+  index: -1
+03leg
+  rotate: true
+  xy: 278, 7
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+04body
+  rotate: true
+  xy: 2, 6
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+05arm
+  rotate: false
+  xy: 180, 27
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+06arm
+  rotate: true
+  xy: 180, 2
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1
+07arm
+  rotate: true
+  xy: 94, 17
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+08arm
+  rotate: false
+  xy: 364, 6
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+09eyes
+  rotate: false
+  xy: 434, 32
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+10eyes
+  rotate: false
+  xy: 434, 20
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1

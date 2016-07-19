@@ -1,0 +1,27 @@
+
+seaotter.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01body
+  rotate: false
+  xy: 2, 13
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+02mouth
+  rotate: false
+  xy: 2, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+03eyes
+  rotate: false
+  xy: 74, 102
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

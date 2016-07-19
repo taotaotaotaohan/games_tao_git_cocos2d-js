@@ -1,0 +1,34 @@
+
+valcano.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01hill
+  rotate: false
+  xy: 480, 57
+  size: 124, 60
+  orig: 124, 60
+  offset: 0, 0
+  index: -1
+02smoke
+  rotate: false
+  xy: 2, 2
+  size: 154, 115
+  orig: 154, 115
+  offset: 0, 0
+  index: -1
+03smoke
+  rotate: false
+  xy: 318, 13
+  size: 160, 104
+  orig: 160, 104
+  offset: 0, 0
+  index: -1
+04smoke
+  rotate: false
+  xy: 158, 7
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1

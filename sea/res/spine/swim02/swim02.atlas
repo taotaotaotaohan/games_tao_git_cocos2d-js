@@ -1,0 +1,41 @@
+
+swim02.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01fy
+  rotate: true
+  xy: 2, 6
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+02fy
+  rotate: false
+  xy: 72, 4
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+03fy
+  rotate: true
+  xy: 40, 13
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+04fy
+  rotate: false
+  xy: 120, 2
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+05fy
+  rotate: false
+  xy: 96, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
