@@ -52,10 +52,11 @@ cc.game.onStart = function(){
     cc.view.adjustViewPort(true);
     cc.view.setDesignResolutionSize(1136, 640, cc.ResolutionPolicy.SHOW_ALL);
     cc.view.resizeWithBrowserSize(true);
-    var t=123;
+
     cc.LoaderScene.preload(g_resources, function () {
-        cc.director.runScene(new StartScene());
+        cc.director.runScene(new StartScene_begin());
     }, this);
+    //cc.director.runScene(new StartScene());
 };
 cc.game.run();
 };

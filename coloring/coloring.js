@@ -9,6 +9,7 @@ var HelloWorldLayer = cc.Layer.extend({
         //
         //创建精灵的函数
         //
+        cc.log(t);
         var create=function(res,scl,x,y,z){
             var sprite=new cc.Sprite(res);
             sprite.setPosition(x,y);
@@ -17,7 +18,6 @@ var HelloWorldLayer = cc.Layer.extend({
             self.sprite_array.push(sprite);
             self.addChild(sprite,z);
         };
-        this.schedule(function(){cc.log(1);return true},)
         create(res.c1,0.5,size.width/14,size.height/12*11,1);
         create(res.c2,0.5,size.width/14,size.height/12*9.5,1);
         create(res.c3,0.5,size.width/14,size.height/12*8);
